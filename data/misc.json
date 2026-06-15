@@ -1,0 +1,106 @@
+{
+  "awards": [
+    {
+      "title": "Dean's List Scholar",
+      "issuer": "University of Toronto — Winter 2026 Session",
+      "year": "2026",
+      "color": "green"
+    },
+    {
+      "title": "Entrance Scholarship",
+      "issuer": "University of Toronto",
+      "year": "2025",
+      "color": "white"
+    },
+    {
+      "title": "Principal's Award for Graduation",
+      "issuer": "Taipei City Fanghe Experimental High School",
+      "year": "Jun 2025",
+      "color": "yellow"
+    },
+    {
+      "title": "Honorable Mention — KIBO Robot Programming Challenge 2024",
+      "issuer": "Taiwan Space Agency (TASA) — Taiwan Preliminary",
+      "year": "Jul 2024",
+      "color": "lavender"
+    },
+    {
+      "title": "Honorable Mention — 57th Taipei City Science Fair",
+      "issuer": "Computer & Information Science Category · Dept. of Education, Taipei City Government",
+      "year": "Apr 2024",
+      "color": "green"
+    },
+    {
+      "title": "Grade A — National High School Essay Writing Competition",
+      "issuer": "National Library Advisory Group for High Schools, Ministry of Education, Taiwan",
+      "year": "Feb 2024",
+      "color": "pink"
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Bloomberg Market Concepts (BMC)",
+      "issuer": "Bloomberg",
+      "date": "Issued Jan 2026",
+      "credentialId": "K35MYjdUuzZxh3Q2bMbJJrVJ",
+      "color": "yellow",
+      "tags": ["Bloomberg Terminal", "Finance"]
+    },
+    {
+      "name": "AI & Law",
+      "issuer": "Lund University (via Coursera)",
+      "date": "Issued Aug 2025",
+      "credentialId": "VZ44Y0DY2QEB",
+      "color": "lavender",
+      "tags": ["LegalTech", "AI Ethics", "Legal Info"]
+    }
+  ],
+
+  "courses": {
+    "Computer Science": [
+      { "name": "Introduction to Computer Programming", "code": "CSC108H5", "school": "University of Toronto" },
+      { "name": "Introduction to Computer Science", "code": "CSC148H5", "school": "University of Toronto" },
+      { "name": "Object-Oriented Programming", "code": "EEEC10008", "school": "NYCU" }
+    ],
+    "Mathematics": [
+      { "name": "Differential Calculus", "code": "MAT135H5", "school": "University of Toronto" },
+      { "name": "Integral Calculus", "code": "MAT136H5", "school": "University of Toronto" },
+      { "name": "Introduction to Mathematical Proofs", "code": "MAT102H5", "school": "University of Toronto" },
+      { "name": "Linear Algebra", "code": "MGCM10015", "school": "NYCU" }
+    ],
+    "Finance & Accounting": [
+      { "name": "Introduction to Financial Accounting", "code": "MGT120H5", "school": "University of Toronto" },
+      { "name": "Financial Planning for Individuals", "code": "MGT150H5", "school": "University of Toronto" },
+      { "name": "Principles of Macroeconomics", "code": "ECO102H5", "school": "University of Toronto" },
+      { "name": "Principles of Microeconomics", "code": "ECO101H5", "school": "University of Toronto" }
+    ],
+    "Management": [
+      { "name": "Introduction to Management Functions", "code": "MGM101H5", "school": "University of Toronto" },
+      { "name": "Intellectual Property Management & The Practice", "code": "MGMT30037", "school": "NYCU" },
+      { "name": "Foundations of Management and Entrepreneurship", "code": "MGBA10001", "school": "NYCU" },
+      { "name": "Management", "code": "MGCM10009", "school": "NYCU" }
+    ],
+    "Law & Legal Tech": [
+      { "name": "Administrative Law", "code": "LWLW30206", "school": "NYCU" },
+      { "name": "LegalTech and Legal Informatics", "code": "LWLW30313", "school": "NYCU" }
+    ],
+    "Other": [
+      { "name": "Writing for University and Beyond", "code": "ISP100H5", "school": "University of Toronto" }
+    ]
+  },
+
+  "skills": {
+    "Programming Languages": ["Python", "JavaScript", "TypeScript", "C", "PHP", "MySQL"],
+    "AI / Machine Learning": ["Artificial Intelligence", "Machine Learning", "Computer Vision", "NLP", "OpenCV", "Regular Expressions"],
+    "Web & Dev Tools": ["React.js", "Git", "Linux"],
+    "Finance & Business": ["Bloomberg Terminal", "Financial Reporting", "Microsoft Excel", "Management"],
+    "Law & Legal Tech": ["Intellectual Property", "Legal Technology", "Legal Information", "Object-Oriented Programming"]
+  },
+
+  "languages": [
+    { "name": "English", "level": "Professional Working Proficiency", "dots": 4 },
+    { "name": "Mandarin", "level": "Native / Bilingual Proficiency", "dots": 5 },
+    { "name": "Taiwanese Hokkien", "level": "Elementary Proficiency", "dots": 1 }
+  ]
+}

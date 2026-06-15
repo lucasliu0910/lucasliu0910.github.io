@@ -1,0 +1,67 @@
+[
+  {
+    "id": "dearhack",
+    "org": "DearHack V Hackathon",
+    "role": "Event Volunteer",
+    "period": "Early 2026",
+    "location": "University of Toronto Mississauga",
+    "status": "current",
+    "highlights": [
+      "Assisted in planning and executing the hackathon event on-site.",
+      "Wrote a post-event reflection article for the UTM student publication.",
+      "Helped foster the hacker culture and community spirit on campus."
+    ],
+    "tags": []
+  },
+  {
+    "id": "mcss",
+    "org": "MCSS (Math & Computational Sciences Society)",
+    "role": "Active Member",
+    "period": "2024 – 2025",
+    "location": "UTM",
+    "status": "highlight",
+    "highlights": [
+      "Participated in society events, networking sessions, and academic workshops.",
+      "Received invitations for continued involvement in organizing activities."
+    ],
+    "tags": []
+  },
+  {
+    "id": "ais3",
+    "org": "AIS3 MyFirstCTF — Cybersecurity Training Camp",
+    "role": "Participant",
+    "period": "Summer 2025",
+    "location": "Hsinchu, Taiwan",
+    "status": "normal",
+    "highlights": [
+      "Attended intensive cybersecurity bootcamp covering CTF competition techniques.",
+      "Practiced cryptography, web vulnerabilities, and binary analysis challenges."
+    ],
+    "tags": ["CTF", "Cryptography", "Web Security"]
+  },
+  {
+    "id": "astro",
+    "org": "Fanghe Experimental High School — Astronomy Club",
+    "role": "Treasurer → Member",
+    "period": "Aug 2023 – Jun 2025",
+    "location": "Taipei, Taiwan",
+    "status": "normal",
+    "highlights": [
+      "Managed club finances and budgeting as Treasurer (2023–2024).",
+      "Organized stargazing observation events and inter-school exchanges."
+    ],
+    "tags": []
+  },
+  {
+    "id": "nycu-invest",
+    "org": "NYCU Investment Club",
+    "role": "Member",
+    "period": "Feb 2025 – Jun 2025",
+    "location": "National Yang Ming Chiao Tung University",
+    "status": "normal",
+    "highlights": [
+      "Participated in investment discussions and financial analysis workshops."
+    ],
+    "tags": []
+  }
+]

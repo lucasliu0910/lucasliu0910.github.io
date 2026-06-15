@@ -1,0 +1,72 @@
+[
+  {
+    "id": "taiwan",
+    "flag": "🇹🇼",
+    "country": "Taiwan",
+    "years": "2004 – Present",
+    "color": "#ffd6e0",
+    "journal": "Home. The place that shaped everything — the food, the language, the people, the way I think. From the neon lights of Taipei's night markets to the mountain trails of Hsinchu, Taiwan is where I learned what it means to belong somewhere.",
+    "highlights": ["Taipei Night Markets", "Hsinchu (NYCU Study)", "Taiwan Round-the-Island Disney Train", "AIS3 Cybersecurity Camp"],
+    "images": []
+  },
+  {
+    "id": "canada",
+    "flag": "🇨🇦",
+    "country": "Canada",
+    "years": "2025 – Present",
+    "color": "#ffd6a0",
+    "journal": "Cold winters, warm people. Mississauga became my second home the moment I stepped onto UTM's campus. Blue Mountain snowboarding, Toronto's skyline, Vancouver's Festival of Lights — Canada has a quietness that lets you think.",
+    "highlights": ["UTM Campus Life", "Blue Mountain Snowboarding", "Vancouver VanDusen Festival of Lights"],
+    "images": []
+  },
+  {
+    "id": "usa",
+    "flag": "🇺🇸",
+    "country": "United States",
+    "years": "2025",
+    "color": "#dce8f8",
+    "journal": "A road trip through the American West. Alcatraz's silence in the middle of San Francisco Bay. Yosemite's granite walls rising out of nowhere. And Las Vegas — Cirque du Soleil's Michael Jackson ONE was unlike anything I'd ever seen.",
+    "highlights": ["Alcatraz Island, San Francisco", "Yosemite National Park — Curry Village", "Las Vegas — MJ ONE by Cirque du Soleil"],
+    "images": []
+  },
+  {
+    "id": "malaysia",
+    "flag": "🇲🇾",
+    "country": "Malaysia",
+    "years": "2023",
+    "color": "#c8f7c5",
+    "journal": "Kuala Lumpur surprised me. The Petronas Towers at night, hawker stalls that never sleep, and a city that somehow fits together dozens of cultures. Stayed at Hilton Garden Inn and explored every corner of the old city.",
+    "highlights": ["Kuala Lumpur City Exploration", "Hilton Garden Inn KL", "Petronas Twin Towers"],
+    "images": []
+  },
+  {
+    "id": "thailand",
+    "flag": "🇹🇭",
+    "country": "Thailand",
+    "years": "2023",
+    "color": "#fff9c4",
+    "journal": "Kanchanaburi was the slowest, most peaceful part of the trip. A wildlife safari where time felt suspended. The river, the jungle, the animals moving at their own pace — it reminded me that not everything needs to be optimized.",
+    "highlights": ["Kanchanaburi Wildlife Safari", "River Kwai"],
+    "images": []
+  },
+  {
+    "id": "singapore",
+    "flag": "🇸🇬",
+    "country": "Singapore",
+    "years": "2026",
+    "color": "#e8e0ff",
+    "journal": "A city-state that runs like a perfectly engineered system. NUS Enterprise's startup camp put me in rooms with founders and thinkers from across Asia. Singapore made me realize that ambition has no ceiling when the infrastructure supports it.",
+    "highlights": ["NUS Enterprise Startup Summer Camp", "Marina Bay Sands", "Gardens by the Bay"],
+    "images": []
+  },
+  {
+    "id": "japan",
+    "flag": "🇯🇵",
+    "country": "Japan",
+    "years": "TBD",
+    "color": "#ffd6e0",
+    "journal": "Not yet — but it's next on the list. Ramen, shinkansen, vending machines at every corner, and cherry blossoms. Japan has been on my mind for years.",
+    "highlights": ["Coming soon..."],
+    "images": []
+  }
+]

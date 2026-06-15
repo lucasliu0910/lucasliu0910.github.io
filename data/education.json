@@ -1,0 +1,73 @@
+[
+  {
+    "id": "uoft",
+    "school": "University of Toronto (UTM)",
+    "degree": "Bachelor of Science — Computer Science & Finance",
+    "period": "Sep 2025 – Apr 2029 (expected)",
+    "location": "Mississauga, Ontario, Canada",
+    "status": "current",
+    "highlights": [
+      "GPA: 3.88 / 4.00",
+      "Dean's List Scholar — Winter 2026 Session",
+      "Entrance Scholarship recipient"
+    ],
+    "tags": ["Computer Science", "Finance", "Dean's List"],
+    "badge": null
+  },
+  {
+    "id": "nycu",
+    "school": "National Yang Ming Chiao Tung University (NYCU)",
+    "degree": "Non-degree Short-term Student",
+    "period": "Feb 2025 – Jun 2025",
+    "location": "Hsinchu, Taiwan",
+    "status": "highlight",
+    "highlights": [
+      "Member of NYCU Investment Club",
+      "Focus on LegalTech, IP Law, and OOP"
+    ],
+    "tags": ["LegalTech", "OOP"],
+    "badge": null
+  },
+  {
+    "id": "fanghe",
+    "school": "Taipei City Fanghe Experimental High School",
+    "degree": "High School Diploma",
+    "period": "Aug 2022 – Jun 2025",
+    "location": "Taipei, Taiwan",
+    "status": "normal",
+    "highlights": [
+      "Chairperson of Student Council (Oct 2023 – Jun 2024)",
+      "Student Representative, Student Appeals Committee",
+      "Section Chief, Student Rights Section, Student Union",
+      "Astronomy Club (Treasurer → Member)",
+      "Chairperson of Election Commission, Student Union",
+      "Principal's Award for Graduation — Jun 2025"
+    ],
+    "tags": [],
+    "badge": "🏆 Principal's Award"
+  },
+  {
+    "id": "minzu",
+    "school": "Taipei Municipal Minzu Experimental Junior High School",
+    "degree": "Junior High School Graduate",
+    "period": "Sep 2019 – Jun 2022",
+    "location": "Taipei, Taiwan",
+    "status": "normal",
+    "highlights": [],
+    "tags": [],
+    "badge": null
+  },
+  {
+    "id": "self",
+    "school": "Self-Educated (Non-school-based Experimental Education)",
+    "degree": "Homeschool / Independent Study",
+    "period": "Feb 2017 – Jun 2019",
+    "location": "Taipei, Taiwan",
+    "status": "normal",
+    "highlights": [
+      "Self-taught Python, MySQL, and programming foundations"
+    ],
+    "tags": ["Python", "PHP", "MySQL"],
+    "badge": null
+  }
+]

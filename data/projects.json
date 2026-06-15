@@ -1,0 +1,38 @@
+[
+  {
+    "id": "patent-ai",
+    "emoji": "🤖",
+    "title": "Patent Drafting AI Agent",
+    "period": "Feb 2025 – Jun 2025",
+    "association": "National Yang Ming Chiao Tung University",
+    "summary": "AI-powered patent specification generator using Claude Sonnet 4, with prompt engineering and legal JSON-to-document pipelines.",
+    "description": "Developed a patent generation module using Claude Sonnet 4 compliant with legal standards.\n\nDesigned a template-based fallback system for reliability when AI services are unavailable.\n\nImplemented prompt engineering and streaming generation for accurate and professional outputs.\n\nBuilt structured JSON-to-document pipelines ensuring legal formatting (claims hierarchy, numbering).",
+    "stack": ["Python", "Claude API", "NLP", "LangChain", "Legal Formatting"],
+    "tags": ["AI", "LegalTech", "IP Law", "NLP"],
+    "github": ""
+  },
+  {
+    "id": "kibo",
+    "emoji": "🛸",
+    "title": "KIBO Robot Object Recognition Model",
+    "period": "Jan 2024 – Jun 2024",
+    "association": "KIBO Robot Programming Challenge 2024",
+    "summary": "CNN-based object recognition system for the KIBO Robot Programming Challenge 2024 Taiwan Preliminary. Achieved Honorable Mention.",
+    "description": "Participated in the KIBO Robot Programming Challenge 2024 Taiwan Preliminary to develop an object recognition system for the robot.\n\nUtilized CNN and image processing techniques to train the robot to recognize and classify various objects using computer vision.\n\nAchieved Honorable Mention at the Taiwan Space Agency (TASA) Taiwan Preliminary.",
+    "stack": ["Python", "OpenCV", "CNN", "TensorFlow", "Computer Vision"],
+    "tags": ["Machine Learning", "Computer Vision", "Robotics"],
+    "github": ""
+  },
+  {
+    "id": "traffic",
+    "emoji": "🚦",
+    "title": "Real-Time Traffic Violation Monitoring System",
+    "period": "Aug 2023 – Apr 2024",
+    "association": "Taipei City Fanghe Experimental High School",
+    "summary": "Edge computing system detecting red-light running and pedestrian yielding violations using YOLOv5, EasyOCR and transfer learning.",
+    "description": "Developed an edge computing system to detect common traffic violations, including running red lights and failing to yield to pedestrians.\n\nUtilized transfer learning to identify traffic lights and adapted YOLOv5 and EasyOCR for automatic license plate recognition.\n\nAwarded Honorable Mention in the Computer and Information Science category at the 57th Taipei City Science Fair.",
+    "stack": ["Python", "YOLOv5", "EasyOCR", "OpenCV", "Edge Computing"],
+    "tags": ["Computer Vision", "Edge Computing", "Deep Learning"],
+    "github": ""
+  }
+]

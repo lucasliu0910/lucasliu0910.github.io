@@ -1,0 +1,18 @@
+{
+  "handicap": "—",
+  "stats": {
+    "totalRounds": "—",
+    "bestScore": "—",
+    "avgScore": "—",
+    "bestCourse": "—"
+  },
+  "rounds": [
+    {
+      "date": "—",
+      "course": "Add your first round!",
+      "score": "—",
+      "parDiff": "—",
+      "notes": "🏌️ Just getting started"
+    }
+  ]
+}

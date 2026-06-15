@@ -1,0 +1,55 @@
+[
+  {
+    "id": "student-union",
+    "org": "Fanghe Experimental High School Student Union",
+    "location": "Taipei, Taiwan",
+    "status": "current",
+    "roles": [
+      {
+        "title": "Chairman of the Student Council",
+        "period": "Sep 2024 – Feb 2025",
+        "highlights": [
+          "Led the student council and organized regular assembly meetings.",
+          "Coordinated extracurricular activities and facilitated communication between students and school administration.",
+          "Hosted official school ceremonies and represented student body interests."
+        ],
+        "tags": ["Leadership", "Communication", "Event Planning"]
+      },
+      {
+        "title": "Section Chief, Student Rights Section",
+        "period": "Aug 2023 – Jun 2024",
+        "highlights": [
+          "Managed student rights affairs and mediated disputes.",
+          "Collaborated with faculty to improve student welfare policies."
+        ],
+        "tags": []
+      },
+      {
+        "title": "Chairperson of Election Commission",
+        "period": "2023 – 2024",
+        "highlights": [
+          "Oversaw the design and execution of the student union election process.",
+          "Ensured fair, transparent, and well-administered elections."
+        ],
+        "tags": []
+      }
+    ]
+  },
+  {
+    "id": "appeals",
+    "org": "Student Appeals Committee, Fanghe Experimental High School",
+    "location": "Taipei, Taiwan",
+    "status": "normal",
+    "roles": [
+      {
+        "title": "Student Representative",
+        "period": "Sep 2023 – Jun 2024",
+        "highlights": [
+          "Reviewed student grievance cases and participated in formal hearings.",
+          "Drafted official resolutions to address student concerns fairly and effectively."
+        ],
+        "tags": ["Policy", "Mediation", "Documentation"]
+      }
+    ]
+  }
+]
